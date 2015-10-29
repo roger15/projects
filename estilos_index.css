@@ -1,0 +1,36 @@
+body{
+	background-image: url("fondo11.jpg");
+	background-attachment: fixed;
+}
+
+img{
+	border-radius: 360;
+	box-shadow: 0 0 10px black;
+	width: 100px;
+	height: 100px;
+}
+
+.form-signin{
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 60px;
+}
+
+.btn{
+	margin-top: 20px;
+}
+
+.jumbotron{
+	padding-right: 60px;
+	padding-left: 60px;
+	margin-top: 80px;
+	margin-left: 100px;
+	margin-right: 100px;
+	box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.btn-primary:hover{
+	box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}

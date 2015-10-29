@@ -1,0 +1,60 @@
+body{
+	background-color: #F3F3F1;
+}
+
+body h1{
+	font-family: "Ubuntu Titling";
+}
+
+.navbar-inverse{
+	border-radius: 0;
+	background-color: #2E5578;
+    color:#ffffff;
+
+}
+
+.navbar-nav{
+	background-color: #2E5578;
+    color:#ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  	color:#fff;
+  	padding-left:25px;
+  	padding-right:25px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #2a3f53;
+}
+
+
+.navbar-inverse .navbar-toggle, .navbar-inverse .nav .open>a, .navbar-inverse .nav .open>a:hover, .navbar-inverse .nav .open>a:focus {
+   background-color:transparent;
+}
+
+.footer{
+	padding-top: 19px;
+	color: #777;
+	border-top: 4px double #e5e5e5;
+	text-align: center;
+}
+
+.form-control-feedback{
+	right: 20px;
+}
+
+.label{
+	font-size: 14px;
+}
+
+a:link, a:visited, a:hover{
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
